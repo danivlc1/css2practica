@@ -1,0 +1,45 @@
+header.encabezado{
+    background-color: aqua;
+    text-align: center;
+}
+
+img.valencia{
+    max-width: 150px;
+    max-height: 100px;
+}
+
+img.valencia:hover{
+    opacity: 0.3;
+}
+
+nav.imagenes{
+    text-align: center;
+}
+
+hr.peque{
+    width: 50%;
+}
+
+nav.medio{
+    font-family:'Times New Roman', Times, serif
+    font-size: large;
+    text-align: center;
+}
+
+span.hover:hover{
+    background-color: rgb(0, 223, 223);
+    font-weight: bold;
+}
+
+span.fondo{
+    background-image: url("img/valencia_antigua.jpg");
+    max-width: 60%;
+    background-size: 25%;
+    color: blue;
+    font-weight: bold;
+}
+
+footer.piepag{
+    text-align: center;
+    background-color: aqua;
+}
